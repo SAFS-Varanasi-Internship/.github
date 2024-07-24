@@ -24,5 +24,11 @@
 
 
 </td>
+<td>
+
+* [Week 6](https://github.com/SAFS-Varanasi-Internship/Summer-2024/discussions/20)
+
+
+</td>
 </tr>
 </table>
