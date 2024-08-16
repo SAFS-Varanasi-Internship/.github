@@ -17,6 +17,7 @@
 
 * [Zotero bibliography](https://www.zotero.org/groups/5595561/safs-interns-2024/library)
 * [JupyterHub](https://fish.opensci.live/hub/login?next=%2Fhub%2F)
+* [Draft report](https://docs.google.com/document/d/1LbIuGtCFFLPO3MWRDquYCZ1IhFUcE8rhn6mDIATLR4Y/edit)
 
 
 </td>
