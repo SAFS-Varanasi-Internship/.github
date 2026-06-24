@@ -12,6 +12,7 @@
 
 * [Zotero bibliography](https://www.zotero.org/groups/5595561/safs-interns-2024/library)
 * [JupyterHub](https://nmfs-openscapes.2i2c.org)
+* [mindthegap repo](https://github.com/SAFS-Varanasi-Internship/mindthegap)
 
 </td>
 <td>
