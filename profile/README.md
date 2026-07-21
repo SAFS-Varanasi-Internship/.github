@@ -21,7 +21,7 @@
 * [Week 2](https://github.com/SAFS-Varanasi-Internship/Summer-2026/discussions/3)
 * [Week 3](https://github.com/SAFS-Varanasi-Internship/Summer-2026/discussions/5)
 * [Week 4](https://github.com/SAFS-Varanasi-Internship/Summer-2026/discussions/6)
-* Week 5
+* [Week 5](https://github.com/SAFS-Varanasi-Internship/Summer-2026/discussions/7)
 
 
 </td>
